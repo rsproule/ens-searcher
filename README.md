@@ -10,6 +10,6 @@ npm run start
 ```
 
 ## Hosted Version
-Currently being hosted by me here [`https://ipfs.infura.io/ipfs/QmTqBpwstxfbrpsaE7ztng4PSou6Cd47wFnwTzJk4NTmyM`](https://ipfs.infura.io/ipfs/QmTqBpwstxfbrpsaE7ztng4PSou6Cd47wFnwTzJk4NTmyM)
+Currently being hosted on IPFS here [`https://ipfs.infura.io/ipfs/QmTqBpwstxfbrpsaE7ztng4PSou6Cd47wFnwTzJk4NTmyM`](https://ipfs.infura.io/ipfs/QmTqBpwstxfbrpsaE7ztng4PSou6Cd47wFnwTzJk4NTmyM)
 
 ![screenshot](assets/screenshot-scores.png)
