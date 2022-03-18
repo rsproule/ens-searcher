@@ -30,9 +30,9 @@ export const ENSDomainList = () => {
   const [start, setStart] = useState(DEFAULT_START_DATE)
   const [end, setEnd] = useState(DEFAULT_END_DATE)
   const [dictionaryEnabled, setDictionartScoreEnabled] = useState<boolean>(
-    false,
+    true,
   )
-  const [lengthSortEnabled, setLengthSortEnabled] = useState<boolean>(false)
+  const [lengthSortEnabled, setLengthSortEnabled] = useState<boolean>(true)
 
   const { loading, error, data } = useQuery(ENS_QUERY, {
     variables: {
