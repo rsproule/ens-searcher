@@ -10,6 +10,6 @@ npm run start
 ```
 
 ## Hosted Version
-Currently being hosted on IPFS here [`https://ipfs.infura.io/ipfs/QmTqBpwstxfbrpsaE7ztng4PSou6Cd47wFnwTzJk4NTmyM`](https://ipfs.infura.io/ipfs/QmTqBpwstxfbrpsaE7ztng4PSou6Cd47wFnwTzJk4NTmyM)
+Currently being hosted on S3 here [`https://ens-search.com/`](https://ens-search.com/)
 
 ![screenshot](assets/screenshot-scores.png)
